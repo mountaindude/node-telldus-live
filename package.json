@@ -15,7 +15,7 @@
   }
 , "dependencies"   : {
     "oauth"        : "~0.9.11"
-  , "underscore"   : "1.5.1"
+  , "underscore"   : "1.12.1"
   }
 , "keywords"       : [ "Telldus" ]
 , "main"           : "./telldus-live.js"
